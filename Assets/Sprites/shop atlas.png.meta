@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 5fce52e58495ed741b392cbe38354619
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shop atlas_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1153
+        width: 1260
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b30b30b1527b4896240fe4494c26c
+      internalID: 777483550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1137
+        width: 631
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0a2732b22787b4c810d6042c2476fc
+      internalID: -440818885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1014
+        width: 1151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32769f9ef4ca24c439128ab99d552ba5
+      internalID: -123155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 708
+        width: 634
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a07fde67a8f004fa658663b24d10e9
+      internalID: -1832778778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 860
+        width: 553
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b458d3e012db134b92aff0b889e184b
+      internalID: 132165866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_8
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 863
+        width: 326
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f15273bc3c60bc49bdb288bc7dc7a10
+      internalID: 1410666545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 868
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd024b12c30bc4a906bd70be510230
+      internalID: -1661690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 708
+        width: 246
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c012484554d87ef418e59f44f39ce2bc
+      internalID: -181603573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 621
+        width: 1428
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b294e8371c4654cb042b27de4f4828
+      internalID: 2130142787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 572
+        width: 1949
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639d303ab6203543b7211b7530c2890
+      internalID: 738897357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 410
+        width: 1986
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de1fbd139ef6945b0d7a437efb5d99
+      internalID: 736631707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop atlas_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 1989
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c238dd0b5d16741be81fe4bcfe9433
+      internalID: 1830671757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65f4e66d4f045974a8ffc251475120a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shop atlas_0: 777483550
+      shop atlas_1: -1499286800
+      shop atlas_10: 413101511
+      shop atlas_11: -193725433
+      shop atlas_12: 1462813720
+      shop atlas_13: 1762797674
+      shop atlas_14: 2139610792
+      shop atlas_15: -181603573
+      shop atlas_16: 1747182525
+      shop atlas_17: 180929054
+      shop atlas_18: 1267531353
+      shop atlas_19: 721702168
+      shop atlas_2: -440818885
+      shop atlas_20: 275339502
+      shop atlas_21: 2130142787
+      shop atlas_22: 738897357
+      shop atlas_23: 952043701
+      shop atlas_24: 660050578
+      shop atlas_25: -1857988728
+      shop atlas_26: -1574412996
+      shop atlas_27: 1331433643
+      shop atlas_28: -1985982444
+      shop atlas_29: 1145418541
+      shop atlas_3: -123155226
+      shop atlas_30: 1875059284
+      shop atlas_31: 1229027928
+      shop atlas_32: -926347298
+      shop atlas_33: 319112563
+      shop atlas_34: -57774820
+      shop atlas_35: 1457786236
+      shop atlas_36: -1797006414
+      shop atlas_37: 3794340
+      shop atlas_38: -1842673157
+      shop atlas_39: 586291267
+      shop atlas_4: -1832778778
+      shop atlas_40: -1943746965
+      shop atlas_41: -930396472
+      shop atlas_42: 1243934844
+      shop atlas_43: 1521332527
+      shop atlas_44: 1375869850
+      shop atlas_45: -1883996632
+      shop atlas_46: 439335258
+      shop atlas_47: 410402416
+      shop atlas_48: 417157455
+      shop atlas_49: 1043745862
+      shop atlas_5: 1898416113
+      shop atlas_50: 1878030900
+      shop atlas_51: -561759818
+      shop atlas_52: 450668430
+      shop atlas_53: 1401561256
+      shop atlas_54: 1591838792
+      shop atlas_55: 1588736543
+      shop atlas_56: 736631707
+      shop atlas_57: 1830671757
+      shop atlas_6: 484089342
+      shop atlas_7: 132165866
+      shop atlas_8: 1410666545
+      shop atlas_9: -1661690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
